@@ -1,11 +1,32 @@
 <p align="center">
+    <style>
+      .column {
+        padding-top: -30px;
+        display: flex;
+        gap: 5px;
+        align-items: flex-start;
+        flex-wrap: wrap; /* Add this property to make images wrap to next line */
+      }
+      .bordered-div {
+        margin: 5px;
+        border: aliceblue solid 1px;
+        border-radius: 5px;
+        padding: 5px;
+        display: inline-flex; /* to only take the space needed by the contents */
+        flex-direction: column; /* to stack the title on top of the column */
+        align-items: flex-start; /* to align title and contents to the left */
+        text-align: left; /* to align title text to the left */
+      }
+      .bordered-div h3 {
+        margin: 0; /* remove any margin */
+        padding: 5px; /* add some padding for spacing */
+      }
+    </style>
     <a href="https://github.com/hugo-HDSF">
         <h2 align="center">Fullstack Developer - French 🇫🇷🥖</h2>
     </a>
 </p>
 <div align="center">
-
------
 
 <h2 align="center">Connect with me:</h2>
 <div class="bordered-div">
@@ -17,8 +38,6 @@ Socials
 <a href="https://dev.to/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white"></a>
 </div>
 </div>
-
------
 
 <h2 align="center">Languages and Tools:</h2>
 <div class="bordered-div">
@@ -183,27 +202,3 @@ UI/UX
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hugo-HDSF&theme=transparent" alt="hugo-hdsf" /></p>
-
-<style>
-  .column {
-    padding-top: -30px;
-    display: flex;
-    gap: 5px;
-    align-items: flex-start;
-    flex-wrap: wrap; /* Add this property to make images wrap to next line */
-  }
-  .bordered-div {
-    margin: 5px;
-    border: aliceblue solid 1px;
-    border-radius: 5px;
-    padding: 5px;
-    display: inline-flex; /* to only take the space needed by the contents */
-    flex-direction: column; /* to stack the title on top of the column */
-    align-items: flex-start; /* to align title and contents to the left */
-    text-align: left; /* to align title text to the left */
-  }
-  .bordered-div h3 {
-    margin: 0; /* remove any margin */
-    padding: 5px; /* add some padding for spacing */
-  }
-</style>
