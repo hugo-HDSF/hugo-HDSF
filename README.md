@@ -84,7 +84,6 @@ Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
-<p></p>
 </kbd>
 <p></p>
 
