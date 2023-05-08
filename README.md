@@ -44,7 +44,6 @@ Programming Languages
 
 <kbd>
 Frameworks
-<p>
 <kbd>
 Frontend
 <div>
@@ -69,9 +68,8 @@ Mobile
 <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
 </div>
 </kbd>
-</p>
+<p></p>
 
-<p>
 <kbd>
 Backend
 <div>
@@ -85,7 +83,7 @@ Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
-</p>
+<p></p>
 </kbd>
 <p></p>
 
