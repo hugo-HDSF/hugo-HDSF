@@ -44,6 +44,7 @@ Programming Languages
 
 <kbd>
 Frameworks
+<p></p>
 <kbd>
 Frontend
 <div>
@@ -98,7 +99,7 @@ Database
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
 </div>
 </kbd>
-<p><p>
+<p></p>
 
 <kbd>
 ORM
