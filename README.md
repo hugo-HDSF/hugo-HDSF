@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Connect with me:</h2>
-
+<div align="center">
 <kbd>
 Socials
 <div>
@@ -15,6 +15,7 @@ Socials
 <a href="https://dev.to/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white"></a>
 </div>
 </kbd>
+</div>
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -116,11 +117,11 @@ Packages
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=black">
 <img src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white">
-<img src="https://img.shields.io/badge/-Pip-3776AB?logo=pypi&logoColor=white">
-<img src="https://img.shields.io/badge/-apt-0078D6?logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
-<img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
+<img src="https://img.shields.io/badge/-apt-0078D6?logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/-Pip-3776AB?logo=pypi&logoColor=white">
 </div>
 </kbd>
 <p></p>
@@ -133,8 +134,6 @@ Test
 <img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
 </div>
 </kbd>
-<p></p>
-
 <kbd>
 DevOps
 <div>
@@ -142,9 +141,6 @@ DevOps
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </div>
 </kbd>
-<p></p>
-
-
 <kbd>
 Operating Systems
 <div>
@@ -174,9 +170,7 @@ Libraries
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 </div>
-</kbd>
-<p></p>
-
+</kbd> 
 <kbd>
 UI/UX
 <div>
