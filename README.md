@@ -18,7 +18,7 @@ Socials
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
-
+<div align="center">
 <kbd>
 Programming Languages
 <div>
