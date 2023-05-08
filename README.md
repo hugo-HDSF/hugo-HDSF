@@ -44,7 +44,6 @@ Programming Languages
 
 <kbd>
 Frameworks
-<p></p>
 <kbd>
 Frontend
 <div>
