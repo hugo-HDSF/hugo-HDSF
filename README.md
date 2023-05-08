@@ -179,6 +179,7 @@ UI/UX
 </div>
 </kbd>
 <p></p>
+</div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
