@@ -40,11 +40,10 @@ Programming Languages
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Frameworks
-<br>
 <kbd>
 Frontend
 <div>
@@ -59,7 +58,7 @@ Frontend
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Mobile
@@ -69,7 +68,7 @@ Mobile
 <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Backend
@@ -84,9 +83,9 @@ Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Database
@@ -99,7 +98,7 @@ Database
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 ORM
@@ -112,7 +111,7 @@ ORM
 <img src="https://img.shields.io/badge/-PDO-000000?logo=php&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Packages
@@ -127,7 +126,7 @@ Packages
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Test
@@ -137,7 +136,7 @@ Test
 <img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 DevOps
@@ -146,6 +145,7 @@ DevOps
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </div>
 </kbd>
+<div></div>
 
 <kbd>
 Operating Systems
@@ -155,7 +155,7 @@ Operating Systems
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 IDEs
@@ -167,7 +167,7 @@ IDEs
 <img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 Libraries
@@ -176,7 +176,7 @@ Libraries
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <kbd>
 UI/UX
@@ -185,7 +185,7 @@ UI/UX
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
 </div>
 </kbd>
-<br>
+<div></div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
