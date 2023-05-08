@@ -3,10 +3,8 @@
         <h2 align="center">Fullstack Developer - French 🇫🇷🥖</h2>
     </a>
 </p>
-<div align="center">
 
 <h2 align="center">Connect with me:</h2>
-<div align="center">
 
 <kbd>
 Socials
@@ -19,7 +17,6 @@ Socials
 </kbd>
 
 <h2 align="center">Languages and Tools:</h2>
-<div align="center">
 
 <kbd>
 Programming Languages
@@ -44,6 +41,7 @@ Programming Languages
 
 <kbd>
 Frameworks
+<p></p>
 <kbd>
 Frontend
 <div>
