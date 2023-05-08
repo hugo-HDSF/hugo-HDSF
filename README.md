@@ -21,6 +21,7 @@ Socials
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
 
+<p>
 <kbd>
 Programming Languages
 <div>
@@ -40,10 +41,12 @@ Programming Languages
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Frameworks
+<p>
 <kbd>
 Frontend
 <div>
@@ -58,8 +61,9 @@ Frontend
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Mobile
 <div>
@@ -68,8 +72,9 @@ Mobile
 <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Backend
 <div>
@@ -83,10 +88,11 @@ Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Database
 <div>
@@ -98,8 +104,9 @@ Database
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
 </div>
 </kbd>
-<div></div>
+<p>
 
+<p>
 <kbd>
 ORM
 <div>
@@ -111,8 +118,9 @@ ORM
 <img src="https://img.shields.io/badge/-PDO-000000?logo=php&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Packages
 <div>
@@ -126,8 +134,10 @@ Packages
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+
+<p>
 <kbd>
 Test
 <div>
@@ -136,8 +146,9 @@ Test
 <img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 DevOps
 <div>
@@ -145,8 +156,9 @@ DevOps
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Operating Systems
 <div>
@@ -155,8 +167,9 @@ Operating Systems
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 IDEs
 <div>
@@ -167,8 +180,9 @@ IDEs
 <img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 Libraries
 <div>
@@ -176,8 +190,9 @@ Libraries
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
+<p>
 <kbd>
 UI/UX
 <div>
@@ -185,7 +200,7 @@ UI/UX
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
 </div>
 </kbd>
-<div></div>
+</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
