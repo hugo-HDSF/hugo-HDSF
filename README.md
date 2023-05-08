@@ -1,32 +1,209 @@
-### Hi there 👋
-
-<h3 align="center">French Fullstack Developer</h3>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/hugo-hdsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hugo-hdsf" height="30" width="40" /></a>
-<a href="https://dev.to/hugo-hdsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hugo-hdsf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hugo-da-silva-1120b7198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-da-silva-1120b7198" height="30" width="40" /></a>
+    <a href="https://github.com/hugo-HDSF">
+        <h2 align="center">Fullstack Developer - French 🇫🇷🥖</h2>
+    </a>
 </p>
+<div align="center">
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+-----
+
+<h2 align="center">Connect with me:</h2>
+<div class="bordered-div">
+Socials
+<div class="column">
+<a href="https://linkedin.com/in/hugo-da-silva-1120b7198" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/HugoHDSF" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+<a href="https://codepen.io/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-codepen-000000?logo=codepen&logoColor=white"></a>
+<a href="https://dev.to/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white"></a>
+</div>
+</div>
+
+-----
+
+<h2 align="center">Languages and Tools:</h2>
+<div class="bordered-div">
+Programming Languages
+<div class="column">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-68217A?logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-EA2C2F?logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
+</div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+Frameworks
+
+<div class="bordered-div">
+Frontend
+<div class="column">
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white">
+<img src="https://img.shields.io/badge/-Skeleton-2C3656?logo=skeleton&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white">
+<img src="https://img.shields.io/badge/-Redwood_JS-BF4722?logo=redwoodjs&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
+</div>
+</div>
+
+<div class="bordered-div">
+Mobile
+<div class="column">
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
+</div>
+</div>
+
+<div class="bordered-div">
+Backend
+<div class="column">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white">
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
+</div>
+</div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+Database
+<div class="column">
+<img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
+</div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+ORM
+<div class="column">
+<img src="https://img.shields.io/badge/-Eloquent-000000?logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/-Doctrine-F05032?logo=doctrine&logoColor=white">
+<img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/-PDO-000000?logo=php&logoColor=white">
+</div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+Packages
+<div class="column">
+<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=black">
+<img src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white">
+<img src="https://img.shields.io/badge/-Pip-3776AB?logo=pypi&logoColor=white">
+<img src="https://img.shields.io/badge/-apt-0078D6?logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
+<img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
+</div>
+</div>
+</div>
+<div align="center">
+
+<div class="bordered-div">
+Test
+<div class="column">
+<img src="https://img.shields.io/badge/-PHPUnit-3C9CD7?logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
+</div>
+</div>
+
+<div class="bordered-div">
+DevOps
+<div class="column">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+</div>
+</div>
+<div class="bordered-div">
+Operating Systems
+<div class="column">
+<img src="https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black">
+</div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+IDEs
+<div class="column">
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white">
+  </div>
+</div>
+</div>
+<div align="center">
+<div class="bordered-div">
+Libraries
+<div class="column">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
+</div>
+</div>
+<div class="bordered-div">
+UI/UX
+<div class="column">
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
+</div>
+</div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hugo-HDSF&theme=transparent" alt="hugo-hdsf" /></p>
 
-<!--
-**hugo-HDSF/hugo-HDSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  .column {
+    padding-top: -30px;
+    display: flex;
+    gap: 5px;
+    align-items: flex-start;
+    flex-wrap: wrap; /* Add this property to make images wrap to next line */
+  }
+  .bordered-div {
+    margin: 5px;
+    border: aliceblue solid 1px;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-flex; /* to only take the space needed by the contents */
+    flex-direction: column; /* to stack the title on top of the column */
+    align-items: flex-start; /* to align title and contents to the left */
+    text-align: left; /* to align title text to the left */
+  }
+  .bordered-div h3 {
+    margin: 0; /* remove any margin */
+    padding: 5px; /* add some padding for spacing */
+  }
+</style>
