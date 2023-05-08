@@ -1,27 +1,4 @@
 <p align="center">
-    <style>
-      .column {
-        padding-top: -30px;
-        display: flex;
-        gap: 5px;
-        align-items: flex-start;
-        flex-wrap: wrap; /* Add this property to make images wrap to next line */
-      }
-      .bordered-div {
-        margin: 5px;
-        border: aliceblue solid 1px;
-        border-radius: 5px;
-        padding: 5px;
-        display: inline-flex; /* to only take the space needed by the contents */
-        flex-direction: column; /* to stack the title on top of the column */
-        align-items: flex-start; /* to align title and contents to the left */
-        text-align: left; /* to align title text to the left */
-      }
-      .bordered-div h3 {
-        margin: 0; /* remove any margin */
-        padding: 5px; /* add some padding for spacing */
-      }
-    </style>
     <a href="https://github.com/hugo-HDSF">
         <h2 align="center">Fullstack Developer - French 🇫🇷🥖</h2>
     </a>
@@ -29,20 +6,24 @@
 <div align="center">
 
 <h2 align="center">Connect with me:</h2>
-<div class="bordered-div">
+<div align="center">
+
 Socials
-<div class="column">
+<br>
+<kbd>
 <a href="https://linkedin.com/in/hugo-da-silva-1120b7198" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/HugoHDSF" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
 <a href="https://codepen.io/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-codepen-000000?logo=codepen&logoColor=white"></a>
 <a href="https://dev.to/hugo-hdsf" target="blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white"></a>
 </div>
-</div>
+</kbd>
 
 <h2 align="center">Languages and Tools:</h2>
-<div class="bordered-div">
+<div align="center">
+
+<kbd>
 Programming Languages
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
@@ -58,15 +39,13 @@ Programming Languages
 <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
 </div>
-</div>
-</div>
-<div align="center">
-<div class="bordered-div">
-Frameworks
+</kbd>
 
-<div class="bordered-div">
+<kbd>
+Frameworks
+<kbd>
 Frontend
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white">
 <img src="https://img.shields.io/badge/-Skeleton-2C3656?logo=skeleton&logoColor=white">
@@ -77,20 +56,20 @@ Frontend
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
-</div>
+</kbd>
 
-<div class="bordered-div">
+<kbd>
 Mobile
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
 </div>
-</div>
+</kbd>
 
-<div class="bordered-div">
+<kbd>
 Backend
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white">
@@ -100,13 +79,12 @@ Backend
 <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
-</div>
-</div>
-</div>
-<div align="center">
-<div class="bordered-div">
+</kbd>
+</kbd>
+
+<kbd>
 Database
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white">
@@ -114,12 +92,11 @@ Database
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
 </div>
-</div>
-</div>
-<div align="center">
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 ORM
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Eloquent-000000?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white">
@@ -127,12 +104,11 @@ ORM
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white">
 <img src="https://img.shields.io/badge/-PDO-000000?logo=php&logoColor=white">
 </div>
-</div>
-</div>
-<div align="center">
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 Packages
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=black">
 <img src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white">
@@ -142,62 +118,60 @@ Packages
 <img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
 </div>
-</div>
-</div>
-<div align="center">
+</kbd>
 
-<div class="bordered-div">
+<kbd>
 Test
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-PHPUnit-3C9CD7?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white">
 <img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
 </div>
-</div>
+</kbd>
 
-<div class="bordered-div">
+<kbd>
 DevOps
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </div>
-</div>
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 Operating Systems
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black">
 </div>
-</div>
-</div>
-<div align="center">
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 IDEs
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white">
-  </div>
 </div>
-</div>
-<div align="center">
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 Libraries
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 </div>
-</div>
-<div class="bordered-div">
+</kbd>
+
+<kbd>
 UI/UX
-<div class="column">
+<div>
 <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
 </div>
-</div>
+</kbd>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo-hdsf&show_icons=true&locale=en&theme=transparent" alt="hugo-hdsf" /></p>
 
