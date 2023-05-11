@@ -17,9 +17,6 @@ Socials
 </kbd>
 </div>
 
-<img src="https://fr.linkedin.com/in/hugo-hdsf?trk=profile-badge">
-
-
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
 <kbd>
