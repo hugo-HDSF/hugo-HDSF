@@ -102,11 +102,10 @@ Database
 ORM
 <div>
 <img src="https://img.shields.io/badge/-Eloquent-000000?logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/-Doctrine-F05032?logo=doctrine&logoColor=white">
+<img src="https://img.shields.io/badge/-Doctrine-F05032?logo=symfony&logoColor=white">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white">
-<img src="https://img.shields.io/badge/-PDO-000000?logo=php&logoColor=white">
 </div>
 </kbd>
 <p></p>
