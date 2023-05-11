@@ -185,5 +185,5 @@ UI/UX
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hugo-HDSF&theme=transparent" alt="hugo-hdsf" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-hdsf&layout=compact" alt="hugo-hdsf" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-hdsf&layout=compact&theme=transparent" alt="hugo-hdsf" /></p>
 
