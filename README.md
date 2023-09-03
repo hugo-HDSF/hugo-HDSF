@@ -132,8 +132,8 @@ DevOps
 <div>
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker_Compose-2496ED?logo=dockercompose&logoColor=white">
-<img src="https://img.shields.io/badge/-Sourcetree-2496ED?logo=sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-Sourcetree-2684FF?logo=sourcetree&logoColor=white">
 </div>
 </kbd>
 <kbd>
