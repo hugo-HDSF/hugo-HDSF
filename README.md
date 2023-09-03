@@ -32,8 +32,6 @@ Programming Languages
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
 </div>
@@ -48,10 +46,9 @@ Frontend
 <div>
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white">
-<img src="https://img.shields.io/badge/-Skeleton-2C3656?logo=skeleton&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/-Redwood_JS-BF4722?logo=redwoodjs&logoColor=white">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
@@ -64,7 +61,6 @@ Mobile
 <div>
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black">
 </div>
 </kbd>
 <p></p>
@@ -77,8 +73,8 @@ Backend
 <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
@@ -88,12 +84,11 @@ Backend
 <kbd>
 Database
 <div>
-<img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
 </div>
 </kbd>
 <p></p>
@@ -102,9 +97,9 @@ Database
 ORM
 <div>
 <img src="https://img.shields.io/badge/-Eloquent-000000?logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/-Doctrine-F05032?logo=symfony&logoColor=white">
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/-Doctrine-F05032?logo=symfony&logoColor=white">
+<img src="https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white">
 </div>
 </kbd>
@@ -119,8 +114,8 @@ Packages
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
 <img src="https://img.shields.io/badge/-apt-0078D6?logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/-Pip-3776AB?logo=pypi&logoColor=white">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
 </div>
 </kbd>
 <p></p>
@@ -130,7 +125,6 @@ Test
 <div>
 <img src="https://img.shields.io/badge/-PHPUnit-3C9CD7?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/-NUnit-512BD4?logo=nunit&logoColor=white">
 </div>
 </kbd>
 <kbd>
@@ -138,6 +132,8 @@ DevOps
 <div>
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker_Compose-2496ED?logo=dockercompose&logoColor=white">
+<img src="https://img.shields.io/badge/-Sourcetree-2496ED?logo=sourcetree&logoColor=white">
 </div>
 </kbd>
 <kbd>
@@ -154,22 +150,14 @@ Operating Systems
 <kbd>
 IDEs
 <div>
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white">
-<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white">
 </div>
 </kbd>
 <p></p>
 
-<kbd>
-Libraries
-<div>
-<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
-</div>
-</kbd> 
 <kbd>
 UI/UX
 <div>
