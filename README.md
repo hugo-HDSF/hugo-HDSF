@@ -49,8 +49,6 @@ Frontend
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
 </kbd>
