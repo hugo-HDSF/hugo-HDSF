@@ -123,6 +123,7 @@ Test
 <div>
 <img src="https://img.shields.io/badge/-PHPUnit-3C9CD7?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
 </div>
 </kbd>
 <kbd>
