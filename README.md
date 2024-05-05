@@ -25,7 +25,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/-C%23-68217A?logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-EA2C2F?logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
