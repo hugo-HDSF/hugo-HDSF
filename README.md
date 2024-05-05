@@ -22,13 +22,13 @@ Socials
 <kbd>
 Programming Languages
 <div>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-EA2C2F?logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
@@ -66,6 +66,7 @@ Mobile
 <kbd>
 Backend
 <div>
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white">
@@ -73,7 +74,6 @@ Backend
 <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 </div>
 </kbd>
 </kbd>
@@ -108,12 +108,12 @@ Packages
 <div>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=black">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white">
 <img src="https://img.shields.io/badge/-NuGet-004880?logo=nuget&logoColor=white">
 <img src="https://img.shields.io/badge/-apt-0078D6?logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&logoColor=white">
 <img src="https://img.shields.io/badge/-Pip-3776AB?logo=pypi&logoColor=white">
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white">
 </div>
 </kbd>
 <p></p>
@@ -121,15 +121,15 @@ Packages
 <kbd>
 Test
 <div>
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/-PHPUnit-3C9CD7?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
 </div>
 </kbd>
 <kbd>
 DevOps
 <div>
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-GitLab-181717?logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Sourcetree-2684FF?logo=sourcetree&logoColor=white">
